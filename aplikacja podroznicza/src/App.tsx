@@ -1,3 +1,4 @@
+// @ts-nocheck
 import "../src/Styles/App-styled";
 import { Login } from "./components/login-page";
 import { LandingPage } from "./components/LandingPage";

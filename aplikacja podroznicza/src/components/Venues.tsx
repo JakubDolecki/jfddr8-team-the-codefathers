@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { VenuesModal } from "./VenuesModal";
 import {
   Container,

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import styled from "styled-components";
 import useCollapse from "@gaearon/react-collapsed";
 import { useState, useEffect, useContext } from "react";

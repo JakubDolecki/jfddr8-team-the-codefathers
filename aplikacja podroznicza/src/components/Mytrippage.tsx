@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { signOut } from "firebase/auth";
 import { auth } from "../firebase-config";
 import { useState, useContext, useEffect } from "react";

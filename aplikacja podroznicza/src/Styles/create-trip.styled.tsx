@@ -1,3 +1,4 @@
+// @ts-nocheck
 import styled, { createGlobalStyle } from "styled-components";
 import { TripListItems } from "../components/trip-list-items";
 

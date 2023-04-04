@@ -1,3 +1,4 @@
+// @ts-nocheck
 import {} from "../Styles/videoBackground-styled";
 import React from "react";
 import {

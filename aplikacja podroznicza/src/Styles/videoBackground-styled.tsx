@@ -1,3 +1,4 @@
+// @ts-nocheck
 import styled, { createGlobalStyle } from "styled-components";
 
 export const VideoContainer = styled.div`

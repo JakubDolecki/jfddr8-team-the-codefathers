@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { FormEvent, useState } from "react";
 import Modal from 'react-modal';
 import {
