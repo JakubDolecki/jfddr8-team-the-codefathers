@@ -13,4 +13,5 @@ export default defineConfig({
       promiseImportName: (i) => `__tla_${i}`,
     }),
   ],
+  base: '/jfddr8-team-the-codefathers/'
 });
