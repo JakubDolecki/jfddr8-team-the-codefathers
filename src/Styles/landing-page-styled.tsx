@@ -4,7 +4,7 @@ import { createGlobalStyle } from "styled-components";
 
 export const Global = createGlobalStyle`
 body {
-    background-image: url("jfddr8-team-the-codefathers/main/src/assets/Background.jpg");
+    background-image: url("jfddr8-team-the-codefathers/src/assets/Background.jpg");
     background-size: cover;
     background-position: top center;
     background-repeat: no-repeat;
