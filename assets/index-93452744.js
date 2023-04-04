@@ -769,7 +769,7 @@ https://fb.me/react-async-component-lifecycle-hooks`)}if(typeof t.getDerivedStat
   width: 100%;
   height: 100%;
   margin-bottom: -10px;
-`,wF="/assets/INFOx2.5-642aa9e7.jpeg",kF=()=>y("div",{children:y(vF,{children:y(bF,{src:wF,alt:"Infographic"})})}),SF=k.div`
+`,wF="/jfddr8-team-the-codefathers/assets/INFOx2.5-642aa9e7.jpeg",kF=()=>y("div",{children:y(vF,{children:y(bF,{src:wF,alt:"Infographic"})})}),SF=k.div`
   display: flex;
   flex-direction: column;
   justify-content: center;
