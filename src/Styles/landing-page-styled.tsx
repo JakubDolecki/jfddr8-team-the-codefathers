@@ -4,7 +4,7 @@ import { createGlobalStyle } from "styled-components";
 
 export const Global = createGlobalStyle`
 body {
-    background-image: url("assets/Background.jpg");
+    background-image: url("src/assets/Background.jpg");
     background-size: cover;
     background-position: top center;
     background-repeat: no-repeat;
