@@ -41,7 +41,8 @@ ________________________________________________________________________________
 
  Notes:
  <ul>
- <li>JOnly Funchal works!!!</li>
+ <li>Only Funchal works!!!</li>
  <li>Password needs to have 6 letters!!!</li>
+ <li>To check out application visit: https://jakubdolecki.github.io/jfddr8-team-the-codefathers/</li>
  </ul>
  
